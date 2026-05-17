@@ -1,0 +1,10 @@
+.env
+*.env
+admin.env
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+node_modules/
+*.log
+secrets/
