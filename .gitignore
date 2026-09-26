@@ -8,3 +8,4 @@ admin.env
 node_modules/
 *.log
 secrets/
+work/
